@@ -26,6 +26,7 @@ gcount = 0
 ycount = 0
 ocount = 0
 
+#blank image for the net
 rubik_net = np.zeros((196,261,3), np.uint8)
 
 
