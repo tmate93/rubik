@@ -1,6 +1,6 @@
 # Rubik kocka felismerő (Gépi látás beadandó feladat)
 
-Egy python-ban programozott rubik kocka oldalfelismerő program. A rubik kocka hat oldaláról készült kép alapján készít egy másolatot ahol kijelöli a felismert szegmenseket, illetve egy vizuális reprezentációt is rajzol a képre. A kocka kiterített testhálóját is megjeleníti és belerajzolja az adott oldalt a megfelelő pozícióba az eddig felismert többi oldal mellé egy külön file-ba. Végül egy szövegfile-ba kiírja a karakteres reprezentációját is az oldalaknak.
+Egy python-ban programozott rubik kocka oldalfelismerő program. A rubik kocka hat oldaláról készült kép alapján készít egy másolatot ahol kijelöli a felismert szegmenseket, illetve egy vizuális reprezentációt is rajzol a képre. A kocka kiterített testhálóját kirajzolja egy file-ba és egy szövegfile-ba kiírja a karakteres reprezentációját is az oldalaknak.
 
 # Működése:
 
